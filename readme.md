@@ -9,11 +9,11 @@ This project showcases a smooth and interactive **tab switching effect** using *
 
 ## 🎥 **Video Tutorial**
 Check out the video tutorial:  
-[📹 Watch Video](#) *(Add the actual video link)*  
+[📹 Watch Video](#)   
 
 ## 📝 **Read Blog Post**
 Read the detailed blog post:  
-[📰 Read Blog](#) *(Add the actual blog link)*  
+[📰 Read Blog](#)  
 
 ---
 
