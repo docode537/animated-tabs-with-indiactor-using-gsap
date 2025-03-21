@@ -9,7 +9,7 @@ This project showcases a smooth and interactive **tab switching effect** using *
 
 ## 🎥 **Video Tutorial**
 Check out the video tutorial:  
-[📹 Watch Video](#)   
+[📹 Watch Video](https://youtu.be/MTjRDEKcovE?si=dRsrvXz5ReLwEy2U)   
 
 ## 📝 **Read Blog Post**
 Read the detailed blog post:  
