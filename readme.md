@@ -13,7 +13,7 @@ Check out the video tutorial:
 
 ## 📝 **Read Blog Post**
 Read the detailed blog post:  
-[📰 Read Blog](#)  
+[📰 Read Blog](https://docode.co.in/post/how-to-create-animated-tabs-with-indicator-by-using-javascript-and-gsap)  
 
 ---
 
